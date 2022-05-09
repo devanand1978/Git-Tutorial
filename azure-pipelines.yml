@@ -7,7 +7,7 @@ trigger:
 - DEV_DATASET
 
 pool:
-  local
+  Default
 
 steps:
 - script: echo Hello, world!
