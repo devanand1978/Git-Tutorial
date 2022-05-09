@@ -7,7 +7,7 @@ trigger:
 - DEV_DATASET
 
 pool:
-  vmImage: ubuntu-latest
+  local
 
 steps:
 - script: echo Hello, world!
